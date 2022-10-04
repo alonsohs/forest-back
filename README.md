@@ -1,9 +1,9 @@
 
-# Mediconect-back
+# Forest-back
 
-API REST del sistema Mediconect contruido con Express.js y Postgres
+API REST del sistema Forest contruido con Express.js y Postgres
 
-Sistema de acceso a historiales medicos de pacientes online
+Sistema de control de reforestación
 
 
 
@@ -24,7 +24,7 @@ The following programs are required to run the project
 Clone the project
 
 ```bash
-  git clone https://github.com/alonsohs/mediconect-back.git
+  git clone https://github.com/alonsohs/forest-back.git
 ```
 
 Go to the project directory
